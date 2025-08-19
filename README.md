@@ -1,25 +1,27 @@
-<!-- Banner Image (futuristic data/tech theme) -->
+<!-- Banner Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ajaygogula16/Ajaygogula16/main/assets/banner.png" alt="Data Science Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/Ajaygogula16/Ajaygogula16/main/assets/banner.png" 
+       alt="Ajay Kumar - Data Scientist Banner" width="100%">
 </p>
 
-# ​ Hi, I'm Ajay Kumar  
+# 👋 Hi, I'm Ajay Kumar  
 
 I’m a Data Science graduate passionate about transforming raw data into meaningful insights and building intelligent systems that make an impact. I bring strong skills in **Python, SQL, Power BI, and Machine Learning** to solve real-world business challenges.
 
 ---
 
-##  Featured Projects
+## 🚀 Featured Projects
 
-### ​ [Student Performance Analysis](https://github.com/Ajaygogula16/Student_performance_analysis)  
-Explored the influence of demographic and socio-economic factors on student outcomes using **Python, SQL, and statistical testing**. Delivered insights to inform educational strategies.
+### 🔹 [Student Performance Analysis](https://github.com/Ajaygogula16/Student_performance_analysis)  
+Explored the influence of demographic and socio-economic factors on student outcomes using **Python, SQL, and statistical testing**.  
+Delivered insights to inform educational strategies.
 
-### ​ [BlinkIT Grocery Sales Analysis](https://github.com/Ajaygogula16/blinkit-grocery-analysis)  
+### 🔹 [BlinkIT Grocery Sales Analysis](https://github.com/Ajaygogula16/blinkit-grocery-analysis)  
 Built an interactive **Power BI dashboard** with KPIs for sales trends, customer preferences, and outlet performance—empowering data-driven retail decisions.
 
 ---
 
-##  Skills & Toolset
+## 🛠 Skills & Toolset
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
@@ -31,7 +33,7 @@ Built an interactive **Power BI dashboard** with KPIs for sales trends, customer
 
 ---
 
-##  GitHub Metrics
+## 📊 GitHub Metrics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ajaygogula16&show_icons=true&theme=dark" alt="GitHub Stats" height="150" />
@@ -40,7 +42,7 @@ Built an interactive **Power BI dashboard** with KPIs for sales trends, customer
 
 ---
 
-##  What I'm Working On
+## 📌 What I'm Working On
 
 - End-to-end **ML pipelines**: EDA → Model Development → Deployment  
 - **Streamlit apps** for interactive data storytelling  
@@ -48,7 +50,7 @@ Built an interactive **Power BI dashboard** with KPIs for sales trends, customer
 
 ---
 
-##  Connect with Me
+## 🤝 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gogula-ajaykumar-521738374/">
