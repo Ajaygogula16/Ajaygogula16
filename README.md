@@ -24,7 +24,6 @@ With skills in **Python, SQL, Machine Learning, and Power BI**, I focus on deliv
 
 ## 🛠 Languages & Tools  
 
-## 🛠 Languages & Tools  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -40,7 +39,6 @@ With skills in **Python, SQL, Machine Learning, and Power BI**, I focus on deliv
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
   <img src="https://img.shields.io/badge/BeautifulSoup-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 </p>
 
 
