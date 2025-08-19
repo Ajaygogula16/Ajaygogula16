@@ -1,8 +1,9 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ajaygogula16/Ajaygogula16/main/assets/banner.png" 
-       alt="Ajay Kumar | Data Scientist" width="100%">
+  <img src="https://github.com/Ajaygogula16/Ajaygogula16/blob/main/assets/Screenshot%202025-08-19%20100008.png" 
+       alt="Ajay Kumar Banner" width="100%">
 </p>
+
 
 # ​ Hi, I'm Ajay Kumar
 
