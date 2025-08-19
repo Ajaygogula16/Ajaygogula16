@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="[https://github.com/Ajaygogula16/Ajaygogula16/blob/main/assets/Screenshot%202025-08-19%20100008.png](https://aigencorp.com/wp-content/uploads/2022/08/2.jpg)" 
+  <img src="[[https://github.com/Ajaygogula16/Ajaygogula16/blob/main/assets/Screenshot%202025-08-19%20100008.png](https://aigencorp.com/wp-content/uploads/2022/08/2.jpg)](https://aigencorp.com/wp-content/uploads/2022/08/2.jpg)" 
        alt="Ajay Kumar Banner" width="100%">
 </p>
 
