@@ -22,10 +22,8 @@ With expertise in **Python, SQL, Power BI, and Machine Learning**, I strive to s
 ---
 
 ## 🛠 Languages & Tools  
-**Programming & Analysis:** Python | Pandas | NumPy | SQL | Statistics  
-**Visualization & BI:** Power BI | Matplotlib | Seaborn  
-**Machine Learning:** Scikit-learn | Regression | Classification | EDA  
-**Other Tools:** Excel | Git | HTML | CSS  
+Python | Pandas | NumPy | Scikit-Learn | TensorFlow | Keras | Matplotlib | Seaborn |  
+SQL | Power BI | Git | Excel | BeautifulSoup | HTML5 | CSS3 | JavaScript | React | C | Java  
 
 ---
 
@@ -59,3 +57,4 @@ With expertise in **Python, SQL, Power BI, and Machine Learning**, I strive to s
 ---
 
 ✨ *"Turning data into insights, and insights into impact."*  
+
