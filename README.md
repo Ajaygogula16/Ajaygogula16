@@ -1,7 +1,7 @@
 <!-- Banner Image -->
 <p align="center">
   <img src="https://aigencorp.com/wp-content/uploads/2022/08/2.jpg" 
-       alt="Ajay Kumar Banner" width="100%">
+       alt="Ajay Kumar Banner" width="80%">
 </p>
 
 
