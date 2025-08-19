@@ -40,7 +40,7 @@ With hands-on experience in **Python, SQL, Power BI, and Machine Learning**, I e
 
 ## 🤝 Let's Connect  
 - 💼 [LinkedIn](https://www.linkedin.com/in/gogula-ajaykumar-521738374/)  
-- 📧 Email: *your.email@example.com*  
+- 📧 Email: *ajaykumargogula10@gmail.com*  
 
 ---
 ⭐️ *“Turning data into insights, and insights into impact.”*  
