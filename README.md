@@ -4,62 +4,58 @@
        alt="Ajay Kumar Banner" width="100%">
 </p>
 
+# Hi, I'm Ajay Kumar 👋  
+**Aspiring Data Scientist | Machine Learning Enthusiast | Data Storyteller**
 
-# ​ Hi, I'm Ajay Kumar
-
-I am an aspiring *Data Scientist* passionate about transforming raw data into meaningful insights and interactive dashboards.  
-With hands-on experience in *Python, SQL, Power BI, and Machine Learning*, I enjoy solving real-world business problems through data.
-
----
-
-###  Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| **[Student Performance Analysis](https://github.com/Ajaygogula16/Student_performance_analysis)** | Explored how demographic and socio-economic factors affect student outcomes using Python, SQL, and statistical testing. Delivered actionable insights for educators and policymakers. |
-| **[BlinkIT Grocery Sales Analysis](https://github.com/Ajaygogula16/blinkit-grocery-analysis)** | Built an interactive Power BI dashboard with KPIs for sales, customer behavior, and outlet performance. Created dynamic reporting through data modeling and DAX measures. |
+🚀 I’m a data-driven problem solver passionate about converting raw data into actionable insights and interactive dashboards.  
+With expertise in **Python, SQL, Power BI, and Machine Learning**, I strive to solve business problems through impactful analytics.
 
 ---
 
-###  Skills & Tools
+## 💡 About Me  
+- 📊 Skilled in **data analysis, EDA, and predictive modeling**  
+- 🧠 Experienced in **Python, SQL, and dashboarding with Power BI**  
+- 🛠 Strong in **data cleaning, hypothesis testing, and feature engineering**  
+- 📈 Advocate of **data storytelling & visualization** for decision-making  
+- 🎯 Continuously learning & exploring **Machine Learning and AI applications**  
+
+---
+
+## 🛠 Languages & Tools  
+**Programming & Analysis:** Python | Pandas | NumPy | SQL | Statistics  
+**Visualization & BI:** Power BI | Matplotlib | Seaborn  
+**Machine Learning:** Scikit-learn | Regression | Classification | EDA  
+**Other Tools:** Excel | Git | HTML | CSS  
+
+---
+
+## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/EDA-FF6F00?style=for-the-badge&logo=anaconda&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-0A66C2?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ajaygogula16&show_icons=true&theme=tokyonight" alt="Ajay's GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajaygogula16&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
 </p>
 
 ---
 
-###  GitHub Statistics
+## 📌 Featured Projects  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ajaygogula16&show_icons=true&theme=dark" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajaygogula16&layout=compact&theme=dark" height="150">
-</p>
+### 🔹 [Student Performance Analysis](https://github.com/Ajaygogula16/Student_performance_analysis)  
+- Analyzed student exam outcomes using **demographic & socio-economic factors**  
+- Performed **EDA, hypothesis testing, and SQL-based analysis**  
+- Delivered insights for educators & policymakers  
 
----
-
-###  What I’m Working On
-- Building end-to-end **ML pipelines** (EDA → Model Development → Deployment)  
-- Creating **Streamlit apps** for interactive data storytelling  
-- Expanding into **Cloud & Big Data tools** for scalable analytics
+### 🔹 [BlinkIT Grocery Sales Analysis](https://github.com/Ajaygogula16/blinkit-grocery-analysis)  
+- Built an interactive **Power BI dashboard** for sales & customer insights  
+- Conducted **data modeling, DAX measures, and KPI tracking**  
+- Highlighted outlet performance & demand patterns  
 
 ---
 
-###  Let’s Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/gogula-ajaykumar-521738374/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ajaykumargogula10@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+## 🌐 Let’s Connect  
+- 💼 [LinkedIn](https://www.linkedin.com/in/gogula-ajaykumar-521738374/)  
+- 📧 Email: **ajaykumargogula10@gmail.com**  
 
 ---
 
-⭐ *“Turning data into insights, and insights into impact.”*
+✨ *"Turning data into insights, and insights into impact."*  
